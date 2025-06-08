@@ -1,0 +1,84 @@
+//MADE WITH AI+PERSONAL TWEAKS.
+
+const employees = [
+  {
+    id: 1,
+    name: "Zahra Alvi",
+    title: "Operations Specialist",
+    email: "zahra.alvi@gmail.com",
+    startDate: "2022-10-12",
+    photo: "images/Zahra.jpg"
+  },
+  {
+    id: 2,
+    name: "Oskar Berg",
+    title: "Mobile App Developer",
+    email: "oskar.bergstrom@gmail.com",
+    startDate: "2023-03-27",
+    photo: "images/Oskar.jpg"
+  },
+  {
+    id: 3,
+    name: "Mei-Ling Zhou",
+    title: "Finance Analyst",
+    email: "mei.ling@gmail.com",
+    startDate: "2021-06-01",
+    photo: "images/Mei.jpg"
+  },
+  {
+    id: 4,
+    name: "Thiago Silva",
+    title: "Backend Developer",
+    email: "thiago.silva@gmail.com",
+    startDate: "2023-07-19",
+    photo: "images/Thiago.jpg"
+  },
+  {
+    id: 5,
+    name: "Anya Petrov",
+    title: "Graphic Designer",
+    email: "anya.petrov@gmail.com",
+    startDate: "2022-04-05",
+    photo: "images/Anya.jpg"
+  },
+  {
+    id: 6,
+    name: "Kwame Mensah",
+    title: "Product Manager",
+    email: "kwame.mensah@gmail.com",
+    startDate: "2020-11-23",
+    photo: "images/Kwame.jpg"
+  },
+  {
+    id: 7,
+    name: "Chloe Dubois",
+    title: "Recruitment Specialist",
+    email: "chloe.dubois@gmail.com",
+    startDate: "2021-01-17",
+    photo: "images/Chloe.jpg"
+  },
+  {
+    id: 8,
+    name: "Riku Tanaka",
+    title: "Security Engineer",
+    email: "riku.tanaka@gmail.com",
+    startDate: "2024-01-03",
+    photo: "images/Riku.jpg"
+  },
+  {
+    id: 9,
+    name: "Leila Haddad",
+    title: "Business Analyst",
+    email: "leila.haddad@gmail.com",
+    startDate: "2022-08-11",
+    photo: "images/Leila.jpg"
+  },
+  {
+    id: 10,
+    name: "Mateo García",
+    title: "Support Engineer",
+    email: "mateo.garcia@gmail.com",
+    startDate: "2023-05-28",
+    photo: "images/Mateo.jpg"
+  }
+];
